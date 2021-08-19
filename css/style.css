@@ -3,5 +3,5 @@ div{
     width: 400px;
     background-color: blueviolet;
     background-image: url("../img/truskawka.jpg");
-    background-size: 100%;
+    background-size: cover;
 }
